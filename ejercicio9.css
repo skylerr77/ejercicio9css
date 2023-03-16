@@ -1,0 +1,15 @@
+table,td,th{
+    border: 1px dotted;
+    border-collapse: collapse;
+    text-align: center;
+}
+.borde{
+    border: 1px solid;
+    background-color: rgb(8, 95, 203);
+}
+tr:hover{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
